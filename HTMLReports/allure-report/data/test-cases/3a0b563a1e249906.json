@@ -1,0 +1,68 @@
+{
+  "uid" : "3a0b563a1e249906",
+  "name" : "test_create_new_user",
+  "fullName" : "TestCases.test_Create_user#test_create_new_user",
+  "historyId" : "eeb5b13ac7d441a32de9d8e9ab599a48",
+  "time" : {
+    "start" : 1580793147552,
+    "stop" : 1580793148159,
+    "duration" : 607
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "start_exec",
+    "time" : {
+      "start" : 1580793147546,
+      "stop" : 1580793147551,
+      "duration" : 5
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "TestCases"
+  }, {
+    "name" : "suite",
+    "value" : "test_Create_user"
+  }, {
+    "name" : "host",
+    "value" : "abichevo-mbp-1"
+  }, {
+    "name" : "thread",
+    "value" : "24858-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases.test_Create_user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3a0b563a1e249906.json",
+  "parameterValues" : [ ]
+}

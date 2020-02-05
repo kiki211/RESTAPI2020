@@ -1,0 +1,72 @@
+{
+  "uid" : "a249628e5d8fd52a",
+  "name" : "test_fetch_user_details",
+  "fullName" : "TestCases.test_GetUserData#test_fetch_user_details",
+  "historyId" : "5ee813396a87cefb9d1f22633ff68c9f",
+  "time" : {
+    "start" : 1580793149387,
+    "stop" : 1580793149542,
+    "duration" : 155
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7fc9915ee3423e9e",
+      "name" : "stdout",
+      "source" : "7fc9915ee3423e9e.txt",
+      "type" : "text/plain",
+      "size" : 23
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "Sanity"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCases"
+  }, {
+    "name" : "suite",
+    "value" : "test_GetUserData"
+  }, {
+    "name" : "host",
+    "value" : "abichevo-mbp-1"
+  }, {
+    "name" : "thread",
+    "value" : "24858-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases.test_GetUserData"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "Sanity" ]
+  },
+  "source" : "a249628e5d8fd52a.json",
+  "parameterValues" : [ ]
+}

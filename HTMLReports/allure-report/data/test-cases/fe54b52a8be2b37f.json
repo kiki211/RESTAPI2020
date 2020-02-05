@@ -1,0 +1,87 @@
+{
+  "uid" : "fe54b52a8be2b37f",
+  "name" : "test_create_other_user",
+  "fullName" : "TestCases.test_Create_user#test_create_other_user",
+  "historyId" : "844bbf415034198a6c06e97fee6be112",
+  "time" : {
+    "start" : 1580793148162,
+    "stop" : 1580793149384,
+    "duration" : 1222
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "start_exec",
+    "time" : {
+      "start" : 1580793148162,
+      "stop" : 1580793148162,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e9d3e43e6b28d0f5",
+      "name" : "stdout",
+      "source" : "e9d3e43e6b28d0f5.txt",
+      "type" : "text/plain",
+      "size" : 8
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "Smoke"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCases"
+  }, {
+    "name" : "suite",
+    "value" : "test_Create_user"
+  }, {
+    "name" : "host",
+    "value" : "abichevo-mbp-1"
+  }, {
+    "name" : "thread",
+    "value" : "24858-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases.test_Create_user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "Smoke" ]
+  },
+  "source" : "fe54b52a8be2b37f.json",
+  "parameterValues" : [ ]
+}
