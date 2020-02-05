@@ -5,32 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7eb0402-ff2e-4651-adf9-b615bc25c8c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TestCases/UpdateResource.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCases/test_AddNewUser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCases/test_GetUserData.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCases/test_basic_authentication.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCases/test_end_to_end.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCases/test_request_chaining.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adding_student" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/address_upload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mult_students.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/post_request.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../inerview_python/.idea/inerview_python.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../inerview_python/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../inerview_python/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../inerview_python/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../inerview_python/basic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/APIAutomation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/APIAutomation.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GETrequest/UpdateResource.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GETrequest/UpdateResource.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataDriven/Library.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GETrequest/fetch_userdata.py" beforeDir="false" afterPath="$PROJECT_DIR$/GETrequest/fetch_userdata.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GETrequest/post-request.rtf" beforeDir="false" afterPath="$PROJECT_DIR$/GETrequest/post-request.rtf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyTest/test_001_valid_registration.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyTest/test_001_valid_registration.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCases/test_Create_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/test_Create_user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/create_user" beforeDir="false" afterPath="$PROJECT_DIR$/create_user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataDriven/TestCase.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataDriven/TestCase.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -109,8 +90,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DataDriven/TestCase.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
-              <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+            <state relative-caret-position="336">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -166,9 +147,9 @@
         <option value="$PROJECT_DIR$/TestCases/test_basic_authentication.py" />
         <option value="$PROJECT_DIR$/TestCases/test_oAuthentication.py" />
         <option value="$PROJECT_DIR$/TestCases/test_add_student_multiple_data.py" />
-        <option value="$PROJECT_DIR$/DataDriven/TestCase.py" />
         <option value="$PROJECT_DIR$/DataDriven/__init__.py" />
         <option value="$PROJECT_DIR$/DataDriven/Library.py" />
+        <option value="$PROJECT_DIR$/DataDriven/TestCase.py" />
       </list>
     </option>
   </component>
@@ -676,8 +657,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DataDriven/TestCase.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+        <state relative-caret-position="336">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
